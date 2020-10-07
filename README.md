@@ -41,39 +41,39 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ## Mount
 
-### Description
+### Description It's a 120mm x 120mm square with a thickness if 8mm, it has 4 holes near the corners and 1 large hole in the center.
 
 ### Evidence
 
 ### Image <img src="images/Screenshot 2020-10-07 at 3.27.18 PM.png" alt="alt text" width="100" height="100">
 
-### Reflection
+### Reflection I learned how to mirror sketches 
 
 ---
 
 
 ## Fork
 
-### Description
+### Description it has a circular base with two large towers coming out og the base then it has a large cylinder erectinf from the bottom of the circle.
 
 ### Evidence
 
 ### Image <img src="images/Screenshot 2020-10-07 at 3.52.40 PM.png" alt="alt text" width="100" height="100">
 
-### Reflection
+### Reflection I learned how to make multiple objects erect from on object. from that I was able to mirror one of its forks 
 
 ---
 
 
 ## Tire
 
-### Description
+### Description it's a circle with a large hole in the middle, it has multiple fillets to curve it off 
 
 ### Evidence
 
 ### Image <img src="path-to-image-and-filename" alt="alt text" width="100" height="100">
 
-### Reflection
+### Reflection I learned to create to cirlces and extrude them to create a wheel 
 
 ---
 
