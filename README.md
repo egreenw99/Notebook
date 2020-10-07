@@ -45,7 +45,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Evidence
 
-### Image ![The Mount](images/)
+### Image ![The Mount](images/Screenshot 2020-10-07 at 3.27.18 PM.png)
 
 ### Reflection
 
