@@ -71,7 +71,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Evidence
 
-### Image <img src="path-to-image-and-filename" alt="alt text" width="100" height="100">
+### Image <img src="images/Screenshot 2020-10-07 at 3.53.17 PM.png" alt="alt text" width="100" height="100">
 
 ### Reflection I learned to create to cirlces and extrude them to create a wheel 
 
