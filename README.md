@@ -58,7 +58,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Evidence
 
-### Image
+### Image <img src="path-to-image-and-filename" alt="alt text" width="100" height="100">
 
 ### Reflection
 
@@ -71,7 +71,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Evidence
 
-### Image
+### Image <img src="path-to-image-and-filename" alt="alt text" width="100" height="100">
 
 ### Reflection
 
@@ -84,7 +84,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Evidence
 
-### Image
+### Image <img src="path-to-image-and-filename" alt="alt text" width="100" height="100">
 
 ### Reflection
 
@@ -97,7 +97,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Evidence
 
-### Image
+### Image <img src="path-to-image-and-filename" alt="alt text" width="100" height="100">
 
 ### Reflection
 
